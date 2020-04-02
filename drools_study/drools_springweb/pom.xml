@@ -14,7 +14,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <drools.version>7.10.0.Final</drools.version>
-    <spring.version>5.0.5.RELEASE</spring.version>
+    <spring.version>5.2.5.RELEASE</spring.version>
   </properties>
   <dependencies>
     <dependency>
